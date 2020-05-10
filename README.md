@@ -1,3 +1,3 @@
 # La-Torta-Shop
 
-#Copyright to vincent-chandra 2020
+vincent-chandra 2020
